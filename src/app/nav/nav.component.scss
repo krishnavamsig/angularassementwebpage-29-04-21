@@ -1,17 +1,18 @@
 header {
-    background: #7700FF;
+    background: rgb(27, 49, 82);
 
     .logo {
         font-weight: bold;
     }
     .nav1{
         border-radius: 100px;
-        background-color: yellow;
+        background-color:#DAA520;
         size: 0.5em;
         text-align: center;
         color: black;
     
     }
+
 
     nav {
         justify-self: right;
@@ -23,6 +24,8 @@ header {
 
             li {
                 float: left;
+                font-size: 20px;
+                font-family:'Times New Roman', Times, serif;
 
                 a {
                     padding: 1.5em;

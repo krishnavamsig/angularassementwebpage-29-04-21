@@ -4,3 +4,24 @@ p{
 a:hover {
     background-color: rgb(207, 52, 143);
   }
+  h1,h3{
+      color: white;
+  }
+  img{
+      border-radius: 20%;
+  }
+  hr{
+    border-radius: 10px;
+  }
+  .choose{
+    
+    border-radius: 30%;
+        size: 0.5em;
+        border-color: black;
+        text-align: center;
+        color: white;
+        font-size: 1em;
+  }
+  ul#menu li {
+    display:inline;   
+  }

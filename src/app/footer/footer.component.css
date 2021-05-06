@@ -1,4 +1,4 @@
-h1{
+h1,h2{
     color: rgb(233, 195, 195);
 }
 p{
@@ -7,3 +7,11 @@ p{
 body{
     background-color: black;
 }
+form {
+   
+    font-family: Arial;
+  }
+  
+  .container {
+    padding: 20px;
+  }

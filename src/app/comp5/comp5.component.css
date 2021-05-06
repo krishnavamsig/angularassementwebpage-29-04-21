@@ -7,7 +7,7 @@ h1{
 h3{
     color: brown;
 }
-h4{
+h1,h4{
     color: cornsilk;
 }
 .column {
@@ -33,4 +33,7 @@ h4{
     padding: 16px;
     text-align: center;
     
+  }
+hr{
+border-radius: 30%;
   }
